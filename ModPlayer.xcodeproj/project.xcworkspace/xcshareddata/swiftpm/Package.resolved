@@ -1,16 +1,14 @@
 {
-  "object": {
-    "pins": [
-      {
-        "package": "GCDWebServer",
-        "repositoryURL": "https://github.com/nostradani/GCDWebServer",
-        "state": {
-          "branch": "master",
-          "revision": "14f9eedb296c5b71fec971d8256ef3bfc20a2245",
-          "version": null
-        }
+  "pins" : [
+    {
+      "identity" : "gcdwebserver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/nostradani/GCDWebServer",
+      "state" : {
+        "branch" : "master",
+        "revision" : "14f9eedb296c5b71fec971d8256ef3bfc20a2245"
       }
-    ]
-  },
-  "version": 1
+    }
+  ],
+  "version" : 2
 }
